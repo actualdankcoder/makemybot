@@ -13,3 +13,9 @@ Make discord bots using python/ruby without knowing how to code
 ### Windows 10 ( must have g++ setup )
 
 `g++ makemybot.cpp -o makemybot.exe`
+
+## How to use?
+
+Execute the client using your respective terminal or command prompt
+
+**PS: This application will not work if you try to execute it normally**
