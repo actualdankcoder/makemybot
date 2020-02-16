@@ -1,0 +1,24 @@
+# 1.1
+
+## What's New?
+
+> A lot of randomized commands! They include: 
+
+             [1] Randomized Message
+             
+             [2] Randomized Direct Message
+                   
+             [3] Randomized Embed Message
+                   
+             [4] Randomized Direct Embed Message
+                   
+             [5] Broadcast Message(no config required)
+                   
+             [6] Embed Broadcast Message(no config required)  
+
+> Some *bug fixes   
+
+## Goals
+
+> Still working on Ruby Support
+> More commands?
