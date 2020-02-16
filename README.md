@@ -4,7 +4,7 @@
 
 Make discord bots using python/ruby without knowing how to code
 
-## Build Intruction
+## Build Intructions
 
 ### Ubuntu 18.04/ Other linux distributions
 
