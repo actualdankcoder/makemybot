@@ -13,3 +13,7 @@ Embed Messages
 Ban Command
 
 Kick Command
+
+## Goals
+
+Adding ruby support
