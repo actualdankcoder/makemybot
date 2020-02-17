@@ -16,7 +16,7 @@
                    
              [6] Embed Broadcast Message(no config required)  
              
-             [7] DM Messages(forgot to include in build 1.0)
+             [7] Direct Messages(forgot to include in build 1.0)
 
 > Some *bug fixes   
 
