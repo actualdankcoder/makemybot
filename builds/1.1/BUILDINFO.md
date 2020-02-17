@@ -2,7 +2,7 @@
 
 ## What's New?
 
-> A lot of randomized commands! They include: 
+> A lot of new randomized commands! They include: 
 
              [1] Randomized Message
              
@@ -15,6 +15,8 @@
              [5] Broadcast Message(no config required)
                    
              [6] Embed Broadcast Message(no config required)  
+             
+             [7] DM Messages(forgot to include in build 1.0)
 
 > Some *bug fixes   
 
