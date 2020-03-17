@@ -10,9 +10,9 @@ Make discord bots using python/ruby without knowing how to code
 
 `g++ makemybot.cpp -o makemybot`
 
-### Windows 10 ( must have g++ setup )
+### Windows 10 ( must have mingw setup )
 
-`g++ makemybot.cpp -o makemybot.exe`
+`mingw-64 makemybot.cpp -o makemybot.exe`
 
 ## How to use?
 
