@@ -18,4 +18,5 @@ Make discord bots using python/ruby without knowing how to code
 
 Execute the client using your respective terminal or command prompt
 
+`./makemybot python`
 **PS: This application will not work if you try to execute it normally**
